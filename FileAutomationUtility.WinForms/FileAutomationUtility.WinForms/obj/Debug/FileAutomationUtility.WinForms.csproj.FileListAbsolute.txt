@@ -1,0 +1,9 @@
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\bin\Debug\FileAutomationUtility.WinForms.exe.config
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\bin\Debug\FileAutomationUtility.WinForms.exe
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\bin\Debug\FileAutomationUtility.WinForms.pdb
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.csproj.AssemblyReference.cache
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.Properties.Resources.resources
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.csproj.GenerateResource.cache
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.csproj.CoreCompileInputs.cache
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.exe
+D:\000000_source\file-automation-utility\FileAutomationUtility.WinForms\FileAutomationUtility.WinForms\obj\Debug\FileAutomationUtility.WinForms.pdb

@@ -1,0 +1,2 @@
+These are some text notes.
+This file is used for testing the .txt extension.

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\000000_source\\file-automation-utility\\FileAutomationUtility.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{731E2718-3326-47D0-A7AA-A97936F085A3}|FileAutomationUtility.Console\\FileAutomationUtility.Console.csproj|d:\\000000_source\\file-automation-utility\\fileautomationutility.console\\fileautomationutility.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731E2718-3326-47D0-A7AA-A97936F085A3}|FileAutomationUtility.Console\\FileAutomationUtility.Console.csproj|solutionrelative:fileautomationutility.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\000000_source\\file-automation-utility\\FileAutomationUtility.Console\\FileAutomationUtility.Console\\Program.cs",
+              "RelativeDocumentMoniker": "FileAutomationUtility.Console\\Program.cs",
+              "ToolTip": "D:\\000000_source\\file-automation-utility\\FileAutomationUtility.Console\\FileAutomationUtility.Console\\Program.cs",
+              "RelativeToolTip": "FileAutomationUtility.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:22:18.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
