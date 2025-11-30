@@ -18,13 +18,13 @@ Ideal for demonstrating practical automation and file system operations.
 
 ---
 
-## 🎥 Demo Video (YouTube)
+## 💼 Use Cases
 
-[![File Automation Utility Demo](https://img.youtube.com/vi/SGb_q9O-raE/0.jpg)](https://youtu.be/SGb_q9O-raE)
-
-This video demonstrates the automation process:  
-selecting folders, grouping files by extension,  
-and generating the sorted directory structure.
+- Clean and organize messy download folders automatically
+- Sort CSV, text, image, document files for reporting workflows
+- Prepare files for batch uploads or data pipelines
+- Demonstrate automation and file‑system handling skills to clients
+- Build reusable backend small-tools for long‑term maintenance projects
 
 ---
 
@@ -39,16 +39,19 @@ and generating the sorted directory structure.
 ## 📂 Project Structure
 
 /file-automation-utility
-/ConsoleVersion
-/WinFormsVersion
-/sample
-report1.csv
-report2.csv
-notes.txt
-image1.png
-readme
-/sorted (generated)
-/screenshots
+  /ConsoleVersion
+  /WinFormsVersion
+  /sample
+    report1.csv
+    report2.csv
+    notes.txt
+    image1.png
+    readme
+    /result
+  /screenshots
+    01-main.png
+    02-selected-file.png
+    03-finished.png
 
 ---
 
@@ -61,19 +64,56 @@ readme
 
 ---
 
+## ▶ How to Use (Console)
+
+```bash
+dotnet run
+```
+
+Default folders:
+```text
+Input:  sample/
+Output: sorted/
+```
+
+Console version automatically:
+- scans the sample folder
+- groups files by extension
+- creates subfolders inside sorted
+- copies files accordingly
+
+---
+
+## 🎥 Demo Video (YouTube)
+
+[![File Automation Utility Demo](https://img.youtube.com/vi/SGb_q9O-raE/0.jpg)](https://youtu.be/SGb_q9O-raE)
+
+This video demonstrates the automation process:  
+selecting folders, grouping files by extension,  
+and generating the sorted directory structure.
+
+---
+
+## 📸 Screenshots
+
+| Main Window | After Selecting CSV | Conversion Completed |
+|------------|---------------------|----------------------|
+| ![](screenshots/01-main.png) | ![](screenshots/02-selected-file.png) | ![](screenshots/03-finished.png) |
+
+---
+
 ## 📸 Expected Output
 
-sorted/
-csv/
-report1.csv
-report2.csv
-txt/
-notes.txt
-png/
-image1.png
-no_extension/
-readme
-
+result/
+  csv/
+    report1.csv
+    report2.csv
+  txt/
+    notes.txt
+  png/
+    image1.png
+  no_extension/
+    readme
 
 ---
 
@@ -97,4 +137,4 @@ readme
 ## 📜 License
 
 MIT License
-
+Copyright (c) 2025
